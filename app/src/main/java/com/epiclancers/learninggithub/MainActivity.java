@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         // Do Something
 
         String newString = "This is to Compare two branches";
+
     }
 }
