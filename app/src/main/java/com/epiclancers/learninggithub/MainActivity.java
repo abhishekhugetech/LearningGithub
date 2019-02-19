@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
     
     public void newMethod(String data){
         // Do Something
+
+        String newString = "This is to Compare two branches";
     }
 }
